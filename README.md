@@ -1,5 +1,5 @@
-*Clean Data Programming Assignment
-** run-analysis script**
+# Clean Data Programming Assignment
+## run-analysis script
 The following steps are performed:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -8,7 +8,7 @@ The following steps are performed:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-*Code Book
+# Code Book
 
 This codebook descripes the variables in the tidy data set produced by the __run-analysis__ script. 
 The origin of the data is located at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
